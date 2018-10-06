@@ -1,13 +1,4 @@
 
-# coding: utf-8
-
-# In[1]:
-
-
-cd Desktop
-
-
-# In[11]:
 
 
 '''@ Author Vishnu Varthan
