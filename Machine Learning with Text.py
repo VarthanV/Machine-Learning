@@ -27,7 +27,7 @@ test_dtm=vector.transform(test)
 
 
 d= pd.DataFrame(test_dtm.toarray(),columns=vector.get_feature_names())
-d
+
 
 
     
